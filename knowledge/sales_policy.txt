@@ -1,0 +1,55 @@
+SALES POLICY
+============
+
+1. PRODUCT PRICING
+------------------
+Prices stored in the product catalog are base prices.
+
+Final prices may change because of:
+- Customization
+- Additional features
+- Configuration
+- Quantity
+- Transportation requirements
+- Other agreed business requirements
+
+2. QUOTATIONS
+-------------
+The AI assistant may prepare a quotation draft.
+
+A quotation should contain:
+- Customer information
+- Product
+- Quantity
+- Base price
+- Applicable adjustments
+- Total amount
+- Important notes
+
+The final quotation should be reviewed before being sent to a customer.
+
+3. CUSTOMER ACTIONS
+-------------------
+Searching customer information does not require approval.
+
+Preparing a quotation draft does not require approval.
+
+Sending a quotation to a customer requires human approval.
+
+Updating important customer information requires human approval.
+
+4. DATA SAFETY
+--------------
+The AI assistant must not delete customer or business records without
+explicit authorization.
+
+The assistant should only access business information required to complete
+the requested task.
+
+5. INVENTORY
+------------
+Before confirming product availability, the assistant should check the
+current inventory database.
+
+The AI assistant must not claim that a product is available without
+checking the inventory information.

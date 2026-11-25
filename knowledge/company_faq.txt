@@ -1,0 +1,30 @@
+COMPANY FAQ
+===========
+
+Q: What products does the company manufacture?
+A: The company manufactures Standard Tractor Trailers, Hydraulic Trailers,
+Heavy Duty Trailers, Agriculture Trailers, and Custom Trailers.
+
+Q: Can customers request customization?
+A: Yes. Customers can request customized trailer dimensions, configurations,
+and other requirements depending on feasibility.
+
+Q: How can a customer request a quotation?
+A: A customer can contact the sales team and provide the required product,
+quantity, and customization requirements.
+
+Q: Are the listed product prices final?
+A: No. Product prices are base prices. The final quotation may change based
+on customization, additional features, configuration, and business requirements.
+
+Q: Which trailer is suitable for heavy loads?
+A: The Heavy Duty Trailer has a listed capacity of 12 tons and is designed
+for high-load agricultural and transport applications.
+
+Q: Which trailer has hydraulic unloading?
+A: The Hydraulic Trailer is designed with a hydraulic tipping mechanism
+for efficient unloading.
+
+Q: Can the AI assistant create a final quotation automatically?
+A: The AI assistant can prepare a quotation draft. Final business actions
+that require approval must go through the human approval process.

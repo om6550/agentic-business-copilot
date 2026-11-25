@@ -1,0 +1,93 @@
+TRACTOR TRAILER PRODUCT CATALOG
+================================
+
+Company: Laxmi Trailer Manufacturing
+Business Type: Tractor Trailer and Agricultural Trailer Manufacturing
+
+1. STANDARD TRACTOR TRAILER
+--------------------------------
+Category: Tractor Trailer
+Capacity: 5 Tons
+Base Price: ₹185,000
+
+Description:
+The Standard Tractor Trailer is designed for general agricultural transportation.
+It is suitable for farmers who need a reliable trailer for transporting crops,
+farm materials, equipment, and other agricultural loads.
+
+Recommended Use:
+- Agricultural transportation
+- Crop transportation
+- Farm material transportation
+
+2. HYDRAULIC TRAILER
+--------------------------------
+Category: Hydraulic Trailer
+Capacity: 8 Tons
+Base Price: ₹275,000
+
+Description:
+The Hydraulic Trailer is designed with a hydraulic tipping mechanism that helps
+with efficient unloading of agricultural and other bulk materials.
+
+Recommended Use:
+- Agricultural material transportation
+- Bulk material transportation
+- Faster unloading operations
+
+3. HEAVY DUTY TRAILER
+--------------------------------
+Category: Heavy Duty
+Capacity: 12 Tons
+Base Price: ₹425,000
+
+Description:
+The Heavy Duty Trailer is designed for high-load agricultural and transport
+applications where higher carrying capacity is required.
+
+Recommended Use:
+- Heavy agricultural loads
+- Transport businesses
+- High-load material transportation
+
+4. AGRICULTURE TRAILER PRO
+--------------------------------
+Category: Agriculture
+Capacity: 7 Tons
+Base Price: ₹235,000
+
+Description:
+The Agriculture Trailer Pro is a premium agricultural trailer designed for
+farmers and agricultural businesses requiring a balance between capacity and
+practicality.
+
+Recommended Use:
+- Farm transportation
+- Agricultural businesses
+- Crop transportation
+
+5. CUSTOM TRAILER
+--------------------------------
+Category: Customized
+Capacity: 10 Tons
+Base Price: ₹350,000
+
+Description:
+The Custom Trailer is designed for customers who require specific dimensions,
+configurations, or other customization according to their operational needs.
+
+Recommended Use:
+- Customized transportation requirements
+- Specialized agricultural applications
+- Transport businesses requiring custom configurations
+
+GENERAL INFORMATION
+================================
+
+All prices listed above are base prices and may vary depending on customization,
+configuration, additional features, and final business requirements.
+
+Customers should contact the sales team for a final quotation.
+
+The information in this document is intended for internal business assistance
+and AI knowledge retrieval.

@@ -1,0 +1,25 @@
+WARRANTY POLICY
+===============
+
+General Warranty Information
+
+Warranty coverage depends on the product configuration and the final
+terms specified in the customer's quotation or order.
+
+Standard products are covered according to the warranty terms applicable
+to the specific order.
+
+Customization may affect warranty coverage depending on the modification.
+
+Warranty does not automatically cover damage caused by misuse, overloading,
+unauthorized modification, accidents, or improper maintenance.
+
+Customers should contact the company service team for warranty claims.
+
+Important AI Assistant Rule:
+The AI assistant must not invent a warranty duration when the specific
+product order does not contain a confirmed warranty period.
+
+If a customer asks for an exact warranty duration that is not available
+in the knowledge base, the assistant should clearly state that the exact
+duration needs to be confirmed with the company.

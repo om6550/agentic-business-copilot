@@ -207,8 +207,6 @@ Default n8n webhook target:
 
 ---
 
-## System Architecture
-
 ## 📸 Application Screenshots
 
 ### 1. Business Operations Copilot
@@ -235,7 +233,10 @@ Default n8n webhook target:
 ### 8. Quotation Review
 ![Quotation Review](assets/Quotation%20Review.png)
 
+
+## System Architecture
 ```text
+
                     User
                      |
                      v

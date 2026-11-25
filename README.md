@@ -209,6 +209,32 @@ Default n8n webhook target:
 
 ## System Architecture
 
+## 📸 Application Screenshots
+
+### 1. Business Operations Copilot
+![Business Operations Copilot](assets/Business%20Operations%20Copilot.png)
+
+### 2. AI Business Chat & RAG
+![AI Business Chat & RAG](assets/AI%20Business%20Chat%20%26%20RAG.png)
+
+### 3. Multilingual AI Product Chat
+![Multilingual AI Product Chat](assets/Multilingual%20AI%20Product%20Chat.png)
+
+### 4. Business Intelligence Dashboard
+![Business Intelligence Dashboard](assets/Business%20Intelligence%20Dashboard.png)
+
+### 5. Agentic Quotation Workflow — n8n
+![Agentic Quotation Workflow](assets/Agentic%20Quotation%20Workflow%20%E2%80%94%20n8n.png)
+
+### 6. Quotation Draft & Human Review
+![Quotation Draft & Human Review](assets/Quotation%20Draft%20%26%20Human%20Review.png)
+
+### 7. Customer Directory
+![Customer Directory](assets/Customer%20Directory.png)
+
+### 8. Quotation Review
+![Quotation Review](assets/Quotation%20Review.png)
+
 ```text
                     User
                      |
